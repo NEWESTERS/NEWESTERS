@@ -13,7 +13,7 @@
 
 ### State Management
 
-[`Redux`](https://redux.js.org) [`Redux Toolkit`](https://redux-toolkit.js.org) [`MobX`](https://mobx.js.org/README.html)
+[`Redux`](https://redux.js.org) [`Redux Toolkit`](https://redux-toolkit.js.org)
 
 ### Styles
 
@@ -21,4 +21,10 @@
 
 ### Infrastructure
 
-[`Typescript`](https://www.typescriptlang.org) [`Rush`](https://rushstack.io) [`Webpack`](https://webpack.js.org) [`Expo`](https://expo.dev) [`Eslint`](https://eslint.org) [`Prettier`](https://prettier.io)
+[`Typescript`](https://www.typescriptlang.org) [`Rush`](https://rushstack.io) [`Webpack`](https://webpack.js.org) [`Module Federation`](https://webpack.js.org/concepts/module-federation) [`Expo`](https://expo.dev)
+
+### Documentation
+[`API Extractor`](https://api-extractor.com) [`Storybook`](https://storybook.js.org)
+
+### Code Style
+[`Eslint`](https://eslint.org) [`Prettier`](https://prettier.io)
