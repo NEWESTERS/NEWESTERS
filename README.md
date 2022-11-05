@@ -1,6 +1,6 @@
 # BIO
 
-![image](https://www.codewars.com/users/NEWESTERS/badges/small)
+[![image](https://www.codewars.com/users/NEWESTERS/badges/small)](https://www.codewars.com/users/NEWESTERS)
 
 * Specialization: Frontend
 * Language: 🇷🇺 Russian
@@ -23,7 +23,7 @@
 
 ### Infrastructure
 
-[`Typescript`](https://www.typescriptlang.org) [`Rush`](https://rushstack.io) [`Webpack`](https://webpack.js.org) [`Module Federation`](https://webpack.js.org/concepts/module-federation) [`Expo`](https://expo.dev)
+[`Typescript`](https://www.typescriptlang.org) [`Rush`](https://rushstack.io) [`Webpack`](https://webpack.js.org) [`Module Federation`](https://webpack.js.org/concepts/module-federation) [`Expo`](https://expo.dev) [`Heft`](https://rushstack.io/pages/heft/overview/)
 
 ### Documentation
 [`API Extractor`](https://api-extractor.com) [`Storybook`](https://storybook.js.org)
