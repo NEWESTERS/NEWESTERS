@@ -5,6 +5,8 @@
 * Specialization: Frontend
 * Language: 🇷🇺 Russian
 
+[![@landslide's Holopin board](https://holopin.me/landslide)](https://holopin.io/@landslide)
+
 ## 🛠 Tech Stack
 
 ### UI
