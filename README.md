@@ -7,6 +7,14 @@
 
 [![@landslide's Holopin board](https://holopin.me/landslide)](https://holopin.io/@landslide)
 
+
+<a href="https://newesters.github.io/hacknote-js/" style="display: block;">
+  <img src="https://newesters.github.io/hacknote-js/images/logo.svg" />
+  
+  My blog
+</a>
+
+
 ## 🛠 Tech Stack
 
 ### UI
